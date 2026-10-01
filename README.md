@@ -1,4 +1,4 @@
-# EchoLVEF v7-turbo — EchoRisk-MICCAI 2026 Task 1 (LVEF Regression)
+# EchoLVEF — EchoRisk-MICCAI 2026 Task 1 (LVEF Regression)
 
 ---
 
